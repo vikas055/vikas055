@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Sql, Python, Amazon Redshift**
 
+- 👨‍🎓 I believe in learning something new every day.
+
 - 📫 How to reach me **https://www.linkedin.com/in/vikas-padala/**
 
 <h3 align="left">Connect with me:</h3>

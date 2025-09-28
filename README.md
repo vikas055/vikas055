@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Vikas Padala</h1>
 <h3 align="center">A passionate Data Engineer at LexisNexis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas055&label=Profile%20views&color=0e75b6&style=flat" alt="vikas055" /> </p>
 
-- 🔭 I’m currently working on **Data Warehouse** Project
-- 🌱 I’m currently learning **Databricks**
-- 💬 Ask me about **Sql, Python, Amazon Redshift**
-- 👨‍🎓 I believe in learning something new every day.
-- 📫 How to reach me **https://www.linkedin.com/in/vikas-padala/**
+
+<table>
+  <tr>
+    <!-- Left: content -->
+    <td valign="top" width="75%">
+      <ul>
+        <li>🔭 I’m currently working on <b>Data Warehouse</b> Project</li>
+        <li>🌱 I’m currently learning <b>Databricks</b></li>
+        <li>💬 Ask me about <b>Sql, Python, Amazon Redshift</b></li>
+        <li>👨‍🎓 I believe in learning something new every day.</li>
+        <li>📫 How to reach me <a href="https://www.linkedin.com/in/vikas-padala/"><b>LinkedIn</b></a></li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="35%">
+      <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="gif"/>
+    </td>
+ 
+  </tr>
+</table>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

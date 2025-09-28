@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas055&label=Profile%20views&color=0e75b6&style=flat" alt="vikas055" /> </p>
 
 - 🔭 I’m currently working on **Data Warehouse** Project
-
 - 🌱 I’m currently learning **Databricks**
-
 - 💬 Ask me about **Sql, Python, Amazon Redshift**
-
 - 👨‍🎓 I believe in learning something new every day.
-
 - 📫 How to reach me **https://www.linkedin.com/in/vikas-padala/**
 
 <h3 align="left">Connect with me:</h3>

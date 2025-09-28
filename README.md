@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vikas Padala</h1>
-<h3 align="center">A passionate Data Engineer at LexisNexis</h3>
+<h3 align="center">
+  A passionate Data Engineer at
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/64/lexisnexis_logo_icon_169270.png" 
+       alt="LexisNexis" 
+       height="18" 
+       style="vertical-align: -4px; middle; margin-top: 3px;"/>
+   LexisNexis
+</h3>
 
 
 

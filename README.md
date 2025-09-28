@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas055&label=Profile%20views&color=0e75b6&style=flat" alt="vikas055" /> </p>
 
-- 🔭 I’m currently working on **Data Warehouse**
+- 🔭 I’m currently working on **Data Warehouse** Project
 
 - 🌱 I’m currently learning **Databricks**
 
